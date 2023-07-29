@@ -983,3 +983,9 @@
   links:
   - url: 'https://www.frontiersin.org/articles/10.3389/feduc.2023.1159558'
     linklabel: 'paper'
+
+- citation: 'Steinberg, S. & Danish, J. (2023, April). The role of feedback in shaping student agency in technology-supported embodied science activities. In Whose agency? What learning? Whence power? AERA Annual Meeting, Chicago, IL.'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Conference Presentations'
+  date: '2023'
