@@ -998,3 +998,42 @@
   links:
   - url: 'https://link.springer.com/article/10.1007/s11412-023-09395-z'
     linklabel: 'paper'
+
+- citation: 'Vickery, M. (2023). Re-Mediating Technology-Facilitated Embodied Activities at a Summer Camp for Youth with Disabilities. Proceedings of the 18th Annual Meeting of the International Society of the Learning Sciences. Annual Meeting of the International Society of the Learning Sciences, Montreal, Canada.'
+  project: 'STEP'
+  visibility: 'Lab'
+  type: 'Conference Proceedings'
+  date: '2023'
+
+- citation: 'Vickery, M. (2023). Who is Disabled? The Social Construction of Disabled Bodies in Embodied Activity. Proceedings of the 18th Annual Meeting of the International Society of the Learning Sciences. Annual Meeting of the International Society of the Learning Sciences, Montreal, Canada.'
+  project: 'STEP'
+  visibility: 'Lab'
+  type: 'Conference Proceedings'
+  date: '2023'
+
+- citation: 'Vickery, M. (2022). Every Body Belongs: Principles for Inclusive Instruction in Embodied Learning Activities. International Collaboration toward Educational Innovation for All: Overarching Research, Development, and Practices, 1744–1745.'
+  project: 'STEP'
+  visibility: 'Lab'
+  type: 'Conference Proceedings'
+  date: '2022'
+
+- citation: 'Mathayas, N., Vogelstein, L., Danish, J., Lindberg, L., Marin, A., Kern, A., Orellana, M., Meixi, Dorr, S., Keefe, D., Diaz, V., Zohar, R., Tu, X., Cosic, L., Vickery, M., & Kelton, M. (2022). Moving toward dignity affirming invitations to embodied participation in the design of learning environments. Proceedings of the 17th Annual Meeting of the International Society of the Learning Sciences. Annual Meeting of the International Society of the Learning Sciences, Hiroshima, Japan.'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Conference Proceedings'
+  date: '2022'
+
+- citation: 'Parr, E. D., Machaka, N., Dyer, E. B., Krist, C., Langer-Osuna, J., Chavez, R., Malamut, J., Kwon, F., Lange, K., Ramirez, J., Gargroetzi, E., Walkoe, J., Walton, M., Mathayas, N., Danish, J., Tu, X., Zhou, M., Vickery, M., Kelly, S., … Shim, S.-Y. (2021). Movement, Authority, and Knowledge: Examining the Relationships in Embodied and Social Positioning for STEM Learning. Proceedings of the 15th International Conference of the Learning Sciences - ICLS 2021, 8.'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Conference Proceedings'
+  date: '2021'
+
+- citation: ''
+  project: 'STEP'
+  visibility: 'Lab'
+  type: 'Conference Proceedings'
+  date: '2023'
+
+
+
