@@ -1052,7 +1052,9 @@
   visibility: 'All'
   type: 'Conference Proceedings'
   date: '2023'
-
+  links:
+  - url: 'http://theraptlab.org/assets/pdfs/ISLS-Engagement_CameraReady.pdf'
+    linklabel: 'paper'
 
 - citation: 'Steinberg, S. & Danish, J. (2023, April). The role of feedback in shaping student agency in technology-supported embodied science activities. In Whose agency? What learning? Whence power? AERA Annual Meeting, Chicago, IL.'
   project: 'STEP'
@@ -1092,6 +1094,9 @@
   visibility: 'All'
   type: 'Conference Proceedings'
   date: '2023'
+  links:
+  - url: 'http://theraptlab.org/assets/pdfs/ISLS-MDA_CameraReady.pdf'
+    linklabel: 'paper'
 
 - citation: 'Vickery, M., Zhou, M., & Danish, J. A. (2022). Mediated goal navigation in a mixed-reality embodied learning environment. In Tissenbaum, M., Lindgren, R., & Danish, D. (session organizer), “The Role of the Physical Space in Distributed Intelligence,”Symposium presented at the 16th International Conference of the Learning Sciences (ICLS) 2022. Published in Weinberger, A. Chen, W., Hernández-Leo, D., & Chen, B. (Eds.), Proceedings of the 15th International Conference on Computer-Supported Collaborative Learning - CSCL 2022). International Society of the Learning Sciences.'
   project: 'STEP'
