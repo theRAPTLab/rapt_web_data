@@ -15,7 +15,7 @@
     linklabel: 'paper'
 
 - citation: 'Craig, K., Danish, J., Humburg, M., Hmelo-Silver, C., Szostalo, M., & McCranie, A. (2021). Net.Create: Network Visualization to Support Collaborative Historical Knowledge Building. International Journal of Computer-Supported Collaborative Learning.'
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Journal Article'
   date: '2021'
@@ -276,7 +276,7 @@
   date: '2019'
 
 - citation: 'Craig, Kalani, Humburg, Megan, Danish, Joshua,  Szostalo, Maksymilian, Hmelo-Silver,  Cindy E. , McCranie, Ann (2020) Increasing students’ social engagement during COVID-19 with Net.Create: collaborative social network analysis to map historical pandemics during a pandemic, Information and Learning Sciences, Vol. 121 No. 7/8 (July 2020), pp. 533-547.'
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Journal Article'
   date: '2020'
@@ -769,7 +769,7 @@
     linklabel: 'paper'
 
 - citation: 'Bae, H., Craig, K., Danish, J., Hmelo-Silver, C., Uttamchandani, S., & Szostalo, M. (2019). Mediating Collaboration in History with Network Analysis. In Lund, K., Niccolai, G. P., Lavoué, E., Hmelo-Silver, C., Gweon, G., & Baker, M. (Eds.), A Wide Lens: Combining Embodied, Enactive, Extended, and Embedded Learning in Collaborative Settings, 13th International Conference on Computer Supported Collaborative Learning (CSCL) 2019, Volume 2 (pp. 949-950). Lyon, France: International Society of the Learning Sciences.'
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Conference Proceedings'
   date: '2019'
@@ -778,7 +778,7 @@
     linklabel: 'poster abstract'  
 
 - citation: 'Bae, H., Craig, K., Danish, J., Hmelo-Silver, C. E., Uttamchandani, S., Szostalo, M., & McCranie, A. (2019). The Power of Network Analysis Tool for Collaborative Learning. In Lund, K., Niccolai, G. P., Lavoué, E., Hmelo-Silver, C., Gweon, G., & Baker, M. (Eds.), A Wide Lens: Combining Embodied, Enactive, Extended, and Embedded Learning in Collaborative Settings, 13th International Conference on Computer Supported Collaborative Learning (CSCL) 2019, Volume 2 (pp. 1025-1028). Lyon, France: International Society of the Learning Sciences.'
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Conference Proceedings'
   date: '2019'
@@ -787,19 +787,19 @@
     linklabel: 'paper'  
 
 - citation: 'Mccranie, A., Bae, H., Craig, K., Danish, J., Uttamchandani, S., Szostalo, M., & Hmelo-Silver, C. E. (2019). How to Support Network Capta and Collaborative Data Entry through Net.Create, Open Source Software. Paper presented at the NetSci, Burlington, VT. '
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Conference Proceedings'
   date: '2019'
 
 - citation: 'Craig, K. (2017). Analog tools in digital history classrooms: An activity-theory case study of learning opportunities in digital humanities. International Journal for the Scholarship of Teaching and Learning, 11(1), n1. '
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'Lab'
   type: 'Journal Article'
   date: '2017'
 
 - citation: 'Craig, K., Danish, J., Humburg, M., Szostalo, M., McCranie, A., & Hmelo-Silver, C. E. (2020). Net. Create: network analysis in collaborative co-construction of historical context in a large undergraduate classroom. Paper presented at the International Conference of the Learning Sciences (ICLS), Nashville, TN.'
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Conference Proceedings'
   date: '2020'
@@ -808,19 +808,19 @@
     linklabel: 'paper'
 
 - citation: 'Craig, K., Danish, J., Bae, H., Szostalo, M., Humburg, M. A., Hmelo-Silver, C. E., & McCranie, A. (2020). Net.Create: Network Analysis in Collaborative Co-Construction of Historical Context in a Large Undergraduate Classroom. Paper presented at the 2020 Annual Meeting of the American Educational Research Association (AERA), San Francisco, CA (Conference cancelled due to COVID-19). '
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Conference Presentation'
   date: '2020'
 
 - citation: 'Humburg, M. A., Craig, K., Danish, J., & Szostalo, M. (2021). Fostering Historical Empathy Through Network Analysis: Personal Experiences as a Lens for Understanding the Past. Paper presented at the 2021 Annual Meeting of the American Educational Research Association (AERA), held virtually (due to COVID-19). '
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Conference Presentation'
   date: '2021'
 
 - citation: 'Humburg, M., Craig, K., Szostalo, M., Danish, J., Hmelo-Silver, C., & McCranie, A. (2021). Noticing, Understanding, and Encouraging Positive Engagement with Collaborative History Learning. Paper presented at the 2021 Annual Meeting of the International Society of the Learning Sciences (ISLS), Bochum, Germany (held virtually due to COVID-19).'
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Conference Proceedings'
   date: '2021'
@@ -892,7 +892,7 @@
     linklabel: 'paper'
 
 - citation: 'Zhou, M., Steinberg, S., Stiso, C., Danish, J. A. & Craig, K. (2023). Exploring Network Visualization of Data in Elementary Classroom. In Proceedings of the International Conference of the Learning Sciences (ICLS) 2023.'
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Conference Proceedings'
   date: '2023'
@@ -901,7 +901,7 @@
     linklabel: 'paper'
         
 - citation: 'Stiso, C., Zhou, M., Steinberg, S., Danish, J. A. & Craig, K. (2023). Visualizing Funds of Identity: Using Network Software to Model Collective Identity in a Classroom. In Proceedings of the International Conference of the Learning Sciences (ICLS) 2023.'
-  project: 'Net.Create'
+  project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Conference Proceedings'
   date: '2023'
