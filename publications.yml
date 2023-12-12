@@ -1124,3 +1124,12 @@
   links:
   - url: 'https://doi.org/10.1108/ILS-06-2023-0069'
     linklabel: 'paper'
+
+- citation: 'Zhong, Q., Park Rogers, M., Nicholas, C., Danish, J. A., & Hmelo-Silver, C. E. (2023). An Elementary Teacher’s Development of Using Representations: Comparing 2 Years’ Teaching in Earth Science Unit. Journal of Science Teacher Education, 0(0), 1–22.'
+  project: 'RepTal'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2023'
+  links:
+  - url: 'https://www.tandfonline.com/doi/full/10.1080/1046560X.2023.2291246'
+    linklabel: 'paper'
