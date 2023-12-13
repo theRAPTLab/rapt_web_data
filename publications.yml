@@ -1133,3 +1133,12 @@
   links:
   - url: 'https://www.tandfonline.com/doi/full/10.1080/1046560X.2023.2291246'
     linklabel: 'paper'
+
+- citation: 'Rogers, M. P., Hmelo-Silver, C., Nicholas, C., Francis, D. C., & Danish, J. (2023). Learning to Teach with Science Representations. Science and Children, 60(3), 60–67.'
+  project: 'RepTal'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2023'
+  links:
+  - url: 'https://www.nsta.org/science-and-children/science-and-children-januaryfebruary-2023/learning-teach-science'
+    linklabel: 'paper'
