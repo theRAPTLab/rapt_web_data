@@ -2,7 +2,7 @@
   
 - name: STEP
   full_name: Science through Technology Enhanced Play (STEP)
-  blurb: In the Science through Technology Enhanced Play (STEP) project, we are investigating how embodied play among elementary school students can be used to help them understand scientific phenomena (e.g., the working of forces, complex behaviors of bees).
+  blurb: In the Science through Technology Enhanced Play (STEP) project, we are investigating how embodied play among elementary school students can be used to help them understand scientific phenomena (e.g., the working of forces, complex behaviors of bees). Our most recent application is called GEM-STEP where the GEM stands for Generalized Embodied Modeling. This system allows users to create and implement any embodied model they can imagine with embodiment / motion tracking.
   url: https://embodiedplay.org
   logo: step_logo.png
   more: /projects/step
