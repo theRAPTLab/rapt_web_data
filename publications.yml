@@ -1136,3 +1136,12 @@
   links:
   - url: 'https://www.nsta.org/science-and-children/science-and-children-januaryfebruary-2023/learning-teach-science'
     linklabel: 'paper'
+
+- citation: 'Fonteles, J., Davalos, E., S, A. T., Zhang, Y., Zhou, M., Ayalon, E., Lane, A., Steinberg, S., Anton, G., Danish, J., Enyedy, N., & Biswas, G. (2024). A First Step in Using Machine Learning Methods to Enhance Interaction Analysis for Embodied Learning Environments. arXiv preprint arXiv:2405.06203.'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2024'
+  links:
+  - url: 'https://arxiv.org/abs/2405.06203'
+    linklabel: 'paper'
