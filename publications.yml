@@ -1154,3 +1154,12 @@
   links:
   - url: 'https://arxiv.org/abs/2405.06203'
     linklabel: 'paper'
+
+- citation: 'Barnes, T., Danish, J., Finkelstein, S., Molvig, O., Burriss, S., Humburg, M., Reichert, H., Limke, A. (2024). Toward Ethical and Just AI in Education Research. Community for Advancing Discovery Research in Education (CADRE). Education Development Center, Inc.'
+  project: 'ENGAGE'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2024'
+  links:
+  - url: 'https://cadrek12.org/resources/toward-ethical-and-just-ai-education-research'
+    linklabel: 'paper'
