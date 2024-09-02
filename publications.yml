@@ -633,6 +633,15 @@
   - url: 'http://doi.org/10.1007/s11412-015-9207-1'
     linklabel: 'paper'
 
+- citation: 'Enyedy, N., Danish, J. A., Delacruz, G., & Kumar, M. (2012). Learning physics through play in an augmented reality environment. International Journal of Computer-Supported Collaborative Learning, 1-32.'
+  project: 'LPP'
+  type: 'Journal Article'
+  visibility: 'All'
+  date: '2012'
+  links:
+  - url: 'https://doi.org/10.1007/s11412-012-9150-3'
+    linklabel: 'paper'
+
 - citation: 'Enyedy, N., & Danish, J. A. (2015). Learning Physics through Play and Embodied Reflection in an mixed-reality learning environment. In V. Lee (Ed.), Learning Technologies and the Body: Integration and Implementation in Formal and Informal Learning Environments. New York, NY.: Routledge.'
   project: 'LPP'
   type: 'Book Chapter'
