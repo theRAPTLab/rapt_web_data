@@ -1179,9 +1179,15 @@
   visibility: 'All'
   type: 'Conference Presentation'
   date: '2024'
+  links:
+  - url: 'https://joshuadanish.com/assets/pdfs/Zhou_et_al_2024_exploring_divergent_interpretations.pdf'
+    linklabel: 'paper'
 
 - citation: Zhou, M., Anton, G., Mathayas, N., Ayalon, E., Jen, T., Lee, J., Lane, A., Enyedy, N., & Danish, J. (2025, April). Exploring the role of observers in shaping embodied modeling activities [Poster presentation]. Annual Meeting of the American Educational Research Association (AERA), Denver, CO, United States.'
   project: 'STEP'
   visibility: 'All'
   type: 'Conference Presentation'
   date: '2025'
+  links:
+  - url: 'https://joshuadanish.com/assets/pdfs/Zhou_et_al_2025_exploring_observer_roles.pdf'
+    linklabel: 'paper'
