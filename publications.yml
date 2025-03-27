@@ -1173,3 +1173,16 @@
   links:
   - url: 'https://www.mdpi.com/3022732'
     linklabel: 'paper'
+
+- citation: 'Zhou, M., Mathayas, N., Danish, J., Vickery, M., & Steinberg, S. (2024, April). Exploring students’ divergent interpretations while studying ecosystems in an embodied mixed-reality environment [Poster presentation, Runner-up for Best Student Paper Award, AERA SIG Learning Sciences and Advanced Technologies for Learning]. Annual Meeting of the American Educational Research Association (AERA), Philadelphia, PA, United States.'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Conference Presentation'
+  date: '2024'
+
+- citation: Zhou, M., Anton, G., Mathayas, N., Ayalon, E., Jen, T., Lee, J., Lane, A., Enyedy, N., & Danish, J. (2025, April). Exploring the role of observers in shaping embodied modeling activities [Poster presentation]. Annual Meeting of the American Educational Research Association (AERA), Denver, CO, United States.'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Conference Presentation'
+  date: '2024'
+  
