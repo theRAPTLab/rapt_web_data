@@ -1183,7 +1183,7 @@
   - url: 'https://joshuadanish.com/assets/pdfs/Zhou_et_al_2024_exploring_divergent_interpretations.pdf'
     linklabel: 'paper'
 
-- citation: Zhou, M., Anton, G., Mathayas, N., Ayalon, E., Jen, T., Lee, J., Lane, A., Enyedy, N., & Danish, J. (2025, April). Exploring the role of observers in shaping embodied modeling activities [Poster presentation]. Annual Meeting of the American Educational Research Association (AERA), Denver, CO, United States.'
+- citation: 'Zhou, M., Anton, G., Mathayas, N., Ayalon, E., Jen, T., Lee, J., Lane, A., Enyedy, N., & Danish, J. (2025, April). Exploring the role of observers in shaping embodied modeling activities [Poster presentation]. Annual Meeting of the American Educational Research Association (AERA), Denver, CO, United States.'
   project: 'STEP'
   visibility: 'All'
   type: 'Conference Presentation'
@@ -1191,3 +1191,22 @@
   links:
   - url: 'https://joshuadanish.com/assets/pdfs/Zhou_et_al_2025_exploring_observer_roles.pdf'
     linklabel: 'paper'
+
+- citation: 'Zhou, J., Hmelo-Silver, C. E., Ryan, Z., Stiso, C., Murphy, D., Danish, J., Chinn, C. A., & Duncan, R. G. (2024). Disagreeing softly: Supporting students in managing disagreement in peer critique. International Journal of Computer-Supported Collaborative Learning.'
+  project: 'SEEDS'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2024'
+  links:
+  - url: 'https://doi.org/10.1007/s11412-024-09438-z'
+    linklabel: 'paper'
+
+- citation: 'Murphy, D., Duncan, R. G., Chinn, C. A., Danish, J., Hmelo Silver, C. E., Zhou, J., & Ryan, Z. (2025). Elementary Students’ Metacognitive Knowledge of Epistemic Criteria. Journal of Research in Science Teaching, tea.22030.'
+  project: 'SEEDS'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2025'
+  links:
+  - url: 'https://doi.org/10.1002/tea.22030'
+    linklabel: 'paper'
+
