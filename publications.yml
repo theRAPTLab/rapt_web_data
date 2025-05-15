@@ -1597,3 +1597,12 @@
   links:
   - url: 'https://digitalpromise.org/2025/04/25/is-text-data-taking-on-data-literacy-in-english-class/'
     linklabel: 'blog'
+
+- citation: 'McClain, J., Miller, J., Hmelo-Silver, C., Danish, J., Walter, W., Fusco, J., Dragnic-Cindric., Ruiz, P., Buli, T., Karim, S., Bae, H., Glazewski, K. (2024) The Ties that Bind: Bringing Research into Practical Spaces. In Proceedings of the 18th International Conference of the Learning Sciences-ICLS 2024, pp. 2233-2234. International Society of the Learning Sciences.'
+  project: 'HEOV'
+  visibility: 'All'
+  type: 'Conference Proceedings'
+  date: '2024'
+  links:
+  - url: 'https://heov.org/wp-content/uploads/2024/09/HEOV-ISLS-Paper-2024.pdf'
+    linklabel: 'paper'
