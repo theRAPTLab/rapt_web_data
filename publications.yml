@@ -92,7 +92,7 @@
 - citation: 'Danish, J., Duncan, R., Hmelo-Silver, C., Chinn, C., Vickery, M., Ryan, Z., Stiso, C., Murphy, D., Zhou, J. (2021). Interactive Demo of the Modeling and Evidence Mapping Environment (MEME) for Supporting both Elementary and Graduate Students. Paper presented at the 2021 Annual Meeting of the International Society of the Learning Sciences (ISLS).'
   project: 'SEEDS'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2021'
 
 - citation: 'Danish, J., Vickery, M., Duncan, R., Ryan, Z., Stiso, C., Zhou, J., Murphy, D., Hmelo-Silver, C., Chinn, C. (2021). Scientific Model Evaluation During a Gallery Walk. Paper presented at the 2021 Annual Meeting of the International Society of the Learning Sciences (ISLS).'
@@ -359,7 +359,7 @@
 - citation: 'Nicholas, C., McClain, J., Park Rogers, M., & Danish, J.A. (2020). Elementary teachers’ elicitation of students’ funds of knowledge to support science learning with rePresentation. In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, 4 (2151-2158). Nashville, Tennessee: International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2020'
   links:
   - url: 'https://repository.isls.org//handle/1/6506'
@@ -380,7 +380,7 @@
 - citation: 'Danish, J., Stiso, C., Nicholas, C., Hmelo-Silver, C. E., Rogers, M. P., & Cross Francis, D. (2020). What, how, and why do elementary teachers think about using rePresentation in their science teaching? In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, 4 (1934-1941). Nashville, Tennessee: International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2020'
   links:
   - url: 'https://repository.isls.org//handle/1/6476'
@@ -434,7 +434,7 @@
 - citation: 'Pierson, A., Keifert, D., Lee, S., Henrie, A., Johnson, H., & Enyedy, N. (2021, June). Elementary Science Teacher’ Use of RePresentation to Build Shared Understanding from Students’ Diverse Ideas and Practices. In N. Rummel & U. Hoppe. (Eds.) Reflecting the Past and Embracing the Future, International Society of the Learning Sciences Annual Meeting 2021, Bochum, Germany: International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2021'
   links:
   - url: 'https://repository.isls.org//handle/1/7509'
@@ -464,7 +464,7 @@
 - citation: 'Daniel, B. (2021, June). Ideologies, teacher discourse, and language learning in the elementary science classroom. In E. de Vries, J. Ahn, & Y. Hod (Eds.), The 15th International Conference of the Learning Sciences – ICLS 2021 (pp. 593–596). International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2021'
   links:
   - url: 'https://repository.isls.org//handle/1/7533'
@@ -479,7 +479,7 @@
 - citation: 'Askew, R., Daniel, B., Cross Francis, D., Lee, S., Enyedy, N. (2021). Exploring elementary science teacher identity development through a year of professional development: Soren’s story. In N. Rummel & U. Hoppe. (Eds.) Reflecting the Past and Embracing the Future, International Society of the Learning Sciences Annual Meeting 2021, Bochum, Germany: International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2021'
   links:
   - url: 'https://repository.isls.org//handle/1/7369'
@@ -851,6 +851,9 @@
   visibility: 'Project'
   type: 'Conference Proceedings'
   date: '2022'
+  links:
+  - url: 'https://dx.doi.org/10.22318/icls2022.1189'
+    linklabel: 'paper'
 
 - citation: 'Daniel, B., Pierson, A., Keifert, D.T., Lee, S., Askew, R. (2022) Science teachers’ ideological shifts about multilingual learners [Poster]. Proceedings of the 2nd Annual Meeting of the International Society of the Learning Sciences 2022, Volume ICLS Proceedings, 1902-1903. Hiroshima, Japan (Online): International Society of the Learning Sciences.'
   project: 'RepTal'
@@ -858,11 +861,14 @@
   type: 'Conference Proceedings'
   date: '2022'
 
-- citation: 'Pierson, A., Keifert, D.T.., Lee, S., Johnson, H., Bell, A. (2022) Making space for heterogeneity in phenomenon-centered science learning. In A. Bell, C. & S. Lee (co-chairs) Navigating making space: Attending to multiple learning pathways in science learning [Symposium]. Proceedings of the 2nd Annual Meeting of the International Society of the Learning Sciences 2022, Volume ICLS Proceedings, 1691-1698. Hiroshima, Japan (Online): International Society of the Learning Sciences.'
+- citation: 'Bell, A., Lee, S., Haverly, C., Pierson, A., Keifert, D., Johnson, H., Salgado, M., Shim, S., Krist, C., Nation, J., & Kang, H. (2022). Navigating making space: Attending to multiple learning pathways in science learning. In Chinn, C., Tan, E., Chan, C., & Kali, Y. (Eds.), Proceedings of the 16th International Conference of the Learning Sciences - ICLS 2022 (pp. 1691-1698). International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'Project'
   type: 'Conference Proceedings'
   date: '2022'
+  links:
+  - url: 'https://dx.doi.org/10.22318/icls2022.1691'
+    linklabel: 'paper'
 
 - citation: 'McClain, J., Nicholas, C., Zimmermann, K., Pierce, E., Danish, J., & Zhong, Q. (2022). Observing the Unobservable. Science and Children, 60(2).'
   project: 'RepTal'
@@ -950,6 +956,9 @@
   visibility: 'All'
   type: 'Conference Proceedings'
   date: '2023'
+  links:
+  - url: 'https://doi.org/10.22318/icls2023.382216'
+    linklabel: 'paper'
 
 - citation: 'Tu, X., Danish, J., Humburg, M., Hmelo-Silver, C., Park Rogers, M., Bell, A., & Lee, S. (2023). Understanding Teachers Perceptions of RePresentation in Elementary Science Classrooms, The Biennial Conference of European Association for Research on Learning and Instruction (EARLI), Thessaloniki, Greece.'
   project: 'RepTal'
@@ -1215,18 +1224,12 @@
   visibility: 'Project'
   type: 'Conference Presentation'
   date: '2024'
-  links:
-  - url: 
-    linklabel: 
 
 - citation: 'Phillips, A. (2025, March). The role of leveraging emotions in elementary science teachers making changes to practice. National Association of Research in Science Teaching (NARST), National Harbor, MD.'
   project: 'RepTal'
-  visibility: 'All'
+  visibility: 'Project'
   type: 'Conference Presentation'
   date: '2025'
-  links:
-  - url: 
-    linklabel: 
 
 - citation: 'Pierson, A. E., Keifert, D., Bell, A., Daniel, B., Jen, T., Lee, S., Johnson, H. J., Askew, R., & Henrie, A. (2024). Designing to support equity-as-transformation perspectives for teachers of multilingual learners. Instructional Science, 52(5), 761-793.'
   project: 'RepTal'
@@ -1240,7 +1243,7 @@
 - citation: 'Daniel, B., Pierson, A., & Keifert, D.T. (2024, June). Methods for Analyzing Ideological Sensemaking in Interaction. Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024. Buffalo, NY: International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2024'
   links:
   - url: 'https://doi.org/10.22318/icls2024.617862'
@@ -1255,10 +1258,10 @@
   - url: 'https://www.proquest.com/openview/60560caf5717d32da82453cf72c04510/1?cbl=18750&diss=y&pq-origsite=gscholar'
     linklabel: 'paper'
 
-- citation: 'Tu, X., Danish, J., Ryan, Z., Vickery, M., Park Rogers, M., Hmelo-silver, C., & Phillips, A. (2024). Teaching with Representations: How Teachers’ Perception Shift Their Science Teaching. International Conference of the Learning Sciences 2024.'
+- citation: 'Tu, X., Danish, J., Ryan, Z., Vickery, M., Rogers, M. P., Hmelo-Silver, C. E., & Philips, A. (2024). Teaching with Representations: How Teachers’ Perception Shift Their Science Teaching. In Lindgren, R., Asino, T. I., Kyza, E. A., Looi, C. K., Keifert, D. T., & Suárez, E. (Eds.), Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024 (pp. 602-609). International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2024'
   links:
   - url: 'https://doi.org/10.22318/icls2024.791061'
@@ -1276,7 +1279,7 @@
 - citation: 'Bell, A., Carlone, H., Jen, T., Johnson, H., Lee, S., Henrie, A., & Zhang, L. (2023). Axiological tools for expanding ideas about elementary science. In the 17th International Conference of the Learning Sciences—ICLS 2023. International Society of the Learning Sciences, Montreal, Quebec.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2023'
   links:
   - url: 'https://doi.org/10.22318/icls2023.399545'
@@ -1294,7 +1297,7 @@
 - citation: 'Daniel, B., Lee, S., Askew, A., Bell, A., Henrie, A., Johnson, H., Pierson, A., Ziegler, H., & Keifert, D.T. (2023, June). Sustaining Participation in an Elementary Science PD Community. In Blikstein, P., Van Aalst, J., Kizito, R., & Brennan, K. (Eds.) Proceedings of the 17th International Conference of the Learning Sciences - ICLS 2023 (pp. 1770-1771). Montreal, Canada: ISLS.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2023'
   links:
   - url: 'https://doi.org/10.22318/icls2023.106530'
@@ -1303,7 +1306,7 @@
 - citation: 'Keifert, D.T., Pierson, A., Jeong, S., De Lucca, N., Watkins, J., Bell, A., Daniel, B., Henrie, A., Johnson, H., Scipio, D., & Bell, P. (2023, June). Theorizing and Designing Relational Possibilities in Teaching and Learning. In Blikstein, P., Van Aalst, J., Kizito, R., & Brennan, K. (Eds.) Proceedings of the 17th International Conference of the Learning Sciences - ICLS 2023 (pp. 1593-1602). Montreal, Canada: ISLS.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2023'
   links:
   - url: 'https://doi.org/10.22318/icls2023.255578'
@@ -1327,7 +1330,7 @@
 - citation: 'Pierson, A., Bell, A., Daniel, B., Keifert, D.T.., Lee, S., Henrie, A., Johnson, H. J. (June, 2023) Teacher-student relationships and inclusive kindergarten science teaching. In D. T. Keifert (chair) & A. Pierson, N. De Lucca, & J. Watkins (co-chairs) Theorizing and Designing Relational Possibilities in Teaching and Learning [Symposium]. Proceedings of the 3rd Annual Meeting of the International Society of the Learning Sciences 2022, Volume ICLS Proceedings. Montreal, Canada. International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2023'
   links:
   - url: 'https://doi.org/10.22318/icls2023.255578'
@@ -1357,7 +1360,7 @@
 - citation: 'Bell, A., Lee, S., Haverly, C., Pierson, A., Keifert, D., Johnson, H., Salgado, M., Shim, S., Krist, C., Nation, J., & Kang, H. (2022). Navigating making space: Attending to multiple learning pathways in science learning [Symposium]. The 16th International Conference of the Learning Sciences (ICLS 2022), Hiroshima, Japan. International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2022'
   links:
   - url: 'https://dx.doi.org/10.22318/icls2022.1691'
@@ -1378,7 +1381,7 @@
 - citation: 'Daniel, B., Pierson, A., Keifert, D., Lee, S., & Askew, R. (2022). Science teachers’ ideological shifts about multilingual learners. The 16th International Conference of the Learning Sciences—ICLS 2022. International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2022'
   links:
   - url: 'https://dx.doi.org/10.22318/icls2022.1902'
@@ -1393,7 +1396,7 @@
 - citation: 'Lee, S., Bell, A., Keifert, D., Johnson, H., Pierson, A., Henrie, A., & Askew, R. (2022). The Tensions of Making Space: How Teachers Work Toward Heterogeneous Science Sense-Making. The 16th International Conference of the Learning Sciences—ICLS 2022. International Society of the Learning Sciences.'
   project: 'RepTal' 
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2022'
   links:
   - url: 'https://dx.doi.org/10.22318/icls2022.1189'
@@ -1423,7 +1426,7 @@
 - citation: 'Pierson, A., Keifert, D., Lee, S., Johnson, H., Bell, A. (2022). Making space for heterogeneity in phenomenon-centered science learning. In A. Bell & S. Lee (Chairs), Navigating Making Space: Attending to Multiple Learning Pathways in Science Learning. The 16th International Conference of the Learning Sciences—ICLS 2022. International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'Project'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2022'
   links:
   - url: 'https://dx.doi.org/10.22318/icls2022.1691'
@@ -1440,7 +1443,6 @@
   visibility: 'Project'
   type: 'Conference Presentation'
   date: '2022'
-  links:
 
 - citation: 'Williams, M., & Henrie, A. (2022, September). Ambitious Science Teaching in Libraries. The Tennessee Association of School Librarians Conference. Murfreesboro, Tennessee.'
   project: 'RepTal'
@@ -1475,7 +1477,7 @@
 - citation: 'Nicholas, C., McClain, J., Park Rogers, M., & Danish, J.A. (2020). Elementary teachers’ elicitation of students’ funds of knowledge to support science learning with representations. In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, 4 (2151-2158). Nashville, Tennessee: International Society of the Learning Sciences.'
   project: 'RepTal'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2020'
   links:
   - url: 'https://doi.dx.org/10.22318/icls2020.2151'
@@ -1496,7 +1498,7 @@
 - citation: 'Zhou, J., Albert, L., Hmelo-Silver, C.E., Danish, J., Ryan, Z., Stiso, C., Murphy, D., Duncan, R. G., Chinn, C. A., & Lin, Q. (2024). Scaffolding students’ adoption of norms for peer critique. Proceedings of the 17th International Conference on Computer-Supported Collaborative Learning – CSCL 2024. Buffalo, USA: International Society of Learning Sciences.'
   project: 'SEEDS'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2024'
   links:
   - url: 'https://doi.org/10.22318/cscl2024.518924'
@@ -1505,7 +1507,7 @@
 - citation: 'Murphy, D., Duncan, R. G., Chinn, C. A., Danish, J., Hmelo-Silver, C. E., Zhou, J., Ryan, Z. & Stiso, C. (2024). Students’ commitment to the criterion evidential fit when evaluating the accuracy of scientific models. Proceedings of the 18th International Conference of the Learning Sciences – ICLS 2024. Buffalo, USA: International Society of the Learning Sciences.'
   project: 'SEEDS'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2024'
 
 - citation: 'Zhou, J., Murphy, D., Danish, J., Hmelo-Silver, C.E., Duncan, R. G., Chinn, C. A., Ryan, Z., Stiso, C., & Albert, L. (2024). Supporting students’ grasp of evidence interpretation to determine model validity through peer critique. Paper presented at the Annual Meeting of the American Educational Research Association, Philadelphia, PA.'
@@ -1517,7 +1519,7 @@
 - citation: 'Murphy, D., Duncan, R. G., Chinn, C. A., Danish, J., Hmelo-Silver, C. E., Ryan, Z., Zhou, J., & Stiso, C. (2023). Supporting students’ epistemic agency to revise a class criteria list for scientific models. Proceedings of the 17th International Conference of the Learning Sciences – ICLS 2023. International Society of the Learning Sciences.'
   project: 'SEEDS'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2023'
   links:
   - url: 'https://doi.org/10.22318/icls2023.243024'
@@ -1532,7 +1534,7 @@
 - citation: 'Zhou, J., Hmelo-Silver, C. E., Danish, J., Ryan, Z., Stiso, C., Cruz Gonzalez, C., Duncan, R. G., Chinn, C. A., & Murphy D. (2022). Mediating students’ scientific argumentation to support model revision. Proceedings of the 15th International Conference on Computer-Supported Collaborative Learning – CSCL 2022 (pp. 107-114). Hiroshima, Japan: International Society of Learning Sciences.'
   project: 'SEEDS'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2022'
   links:
   - url: 'https://par.nsf.gov/biblio/10336588'
@@ -1556,7 +1558,7 @@
 - citation: 'Murphy, D., Chinn, C.A., Duncan, R. G., Danish, J.A., Hmelo-Silver, C. E., Ryan, Z. D., Zhou, J. & Stiso, C. (2022). Students’ ideas about evidentiary fit and its role in modeling practice. Proceedings of the 16th International Conference of the Learning Sciences – ICLS 2022. Hiroshima, Japan: International Society of Learning Sciences. [ICLS Naomi Miyake Best Student Paper Award].'
   project: 'SEEDS'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2022'
   links:
   - url: 'https://dx.doi.org/10.22318/icls2022.519'
@@ -1571,9 +1573,27 @@
 - citation: 'Schunn, C., Noroozi, O., Chen, W., Lyu, Q., Chai, S. C., Li, X., Walker, J., Reza, S. M., Acquah, A., Scarola, A., Barany, A., Henderson, J. B., Stoler, A., Manz, E., Zhou, J. (co-chair), Hmelo-Silver, C. E., Murphy, D. (co-chair), Ryan, Z., Stiso, C., Lin, Q., Danish, J., Duncan, R., Chinn, A. C., & Herrenkohl, L. R. (2024) Perspectives from the field: Scaffolding peer critique and feedback. Proceedings of the 17th International Conference on Computer-Supported Collaborative Learning – CSCL 2024. Buffalo, USA: International Society of Learning Sciences.'
   project: 'SEEDS'
   visibility: 'All'
-  type: 'Conference Presentation'
+  type: 'Conference Proceedings'
   date: '2024'
   links:
   - url: 'https://doi.org/10.22318/cscl2024.250942'
     linklabel: 'paper'
 
+
+- citation: 'Dunbar, K., Coenraad, M., Craig, K., Danish, J., Alanis, J., & Wallace, C. (2024). Using Data Visualizations to Boost Student Engagement in Humanities. Digital Promise.'
+  project: 'NetCreate'
+  visibility: 'All'
+  type: 'Blog'
+  date: '2024'
+  links:
+  - url: 'https://digitalpromise.org/2024/04/03/using-data-visualizations-to-boost-student-engagement-in-humanities/'
+    linklabel: 'blog'
+
+- citation: 'Dunbar, K., Coenraad, M., Craig, K., Danish, J., Alanis, J., Poarch, M., Ginn, N., Norred, A. (2025). Is Text Data? Taking on Data Literacy in English Class. Digital Promise.'
+  project: 'NetCreate'
+  visibility: 'All'
+  type: 'Blog'
+  date: '2024'
+  links:
+  - url: 'https://digitalpromise.org/2025/04/25/is-text-data-taking-on-data-literacy-in-english-class/'
+    linklabel: 'blog'
