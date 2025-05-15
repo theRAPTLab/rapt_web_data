@@ -124,6 +124,11 @@
       ids: 0733218
       pis: 'Joshua Danish, Noel Enyedy, Fabien Wagmeister, Jeff Burke'
 
+- name: HEOV
+  full_name: Hearing Each Other's Voices
+  blurb: 'This is a placeholder for any work that was not part of a larger, core project'
+  url: https://heov.org/
+
 - name: Other
   full_name: Other Projects
   blurb: 'This is a placeholder for any work that was not part of a larger, core project'
