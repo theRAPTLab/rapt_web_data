@@ -1623,7 +1623,7 @@
   project: 'STEP'
   visibility: 'All'
   type: 'Conference Proceedings'
-  date: '2025'
+  date: '2024'
   links:
   - url: 'https://repository.isls.org/bitstream/1/11104/1/ICLS2024_306-313.pdf'
     linklabel: 'paper'
@@ -1632,7 +1632,7 @@
   project: 'STEP'
   visibility: 'All'
   type: 'Conference Presentation'
-  date: '2025'
+  date: '2024'
 
 - citation: 'Steinberg, S., Coenraad, M., Cruz-Gonzalez, C., Danish, J., & Lau, N.G. (2025). Connecting identity and classroom content: The role of network visualization in eliciting history students’ funds of identity. International Society of the Learning Sciences.'
   project: 'VFOI'
@@ -1644,4 +1644,7 @@
   project: 'Other'
   visibility: 'Lab'
   type: 'Conference Proceedings'
-  date: '2025'
+  date: '2024'
+  links:
+  - url: 'https://repository.isls.org/bitstream/1/10870/1/ICLS2024_2075-2076.pdf'
+    linklabel: 'paper'
