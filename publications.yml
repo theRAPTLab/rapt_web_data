@@ -1606,3 +1606,42 @@
   links:
   - url: 'https://heov.org/wp-content/uploads/2024/09/HEOV-ISLS-Paper-2024.pdf'
     linklabel: 'paper'
+  
+- citation: 'Steinberg, S. & Danish, J. (2025). Taking a scientist perspective: Constructing science identities through embodied modeling. International Society of the Learning Sciences.'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Conference Proceedings'
+  date: '2025'
+
+- citation: 'Steinberg, S., Mathayas, N., Zhou, M., & Danish, J. (2025, April). The role of embodiment in scientific modeling and learning about wetlands ecosystems. Poster presented at the American Education Research Association (AERA) Annual Conference, Denver, CO.'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Conference Presentation'
+  date: '2025'
+
+- citation: 'Steinberg, S. & Danish, J. (2024). “We were doing science, not just talking about science”: Embodied learning and science identity development. In Lindgren, R., Asino, T. I., Kyza, E. A., Looi, C. K., Keifert, D. T., & Suárez, E. (Eds.), Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024 (pp. 306-313). International Society of the Learning Sciences.'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Conference Proceedings'
+  date: '2025'
+  links:
+  - url: 'https://repository.isls.org/bitstream/1/11104/1/ICLS2024_306-313.pdf'
+    linklabel: 'paper'
+
+- citation: 'Steinberg, S., Ćosić, L., Anton, G., Zhou, M., & Danish, J. (2024, April). “Happy Juice!”: Expansive notions of energy transfer through theatre in the science classroom. Paper presented at the American Education Research Association (AERA) Annual Conference, Philadelphia, PA.'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Conference Presentation'
+  date: '2025'
+
+- citation: 'Steinberg, S., Coenraad, M., Cruz-Gonzalez, C., Danish, J., & Lau, N.G. (2025). Connecting identity and classroom content: The role of network visualization in eliciting history students’ funds of identity. International Society of the Learning Sciences.'
+  project: 'VFOI'
+  visibility: 'All'
+  type: 'Conference Proceedings'
+  date: '2025'
+
+- citation: 'Steinberg, S., Quick, J., Cruz-Gonzalez, C., Greenberg, D., Lau, N. G., Fox, S., & Wolfe, B. (2024). Identity, power, and imagination at a children’s museum. In Lindgren, R., Asino, T. I., Kyza, E. A., Looi, C. K., Keifert, D. T., & Suárez, E. (Eds.), Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024 (pp. 2075-2076). International Society of the Learning Sciences.'
+  project: 'Other'
+  visibility: 'Lab'
+  type: 'Conference Proceedings'
+  date: '2025'
