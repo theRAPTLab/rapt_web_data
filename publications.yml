@@ -1058,6 +1058,9 @@
   visibility: 'All'
   type: 'Conference Presentation'
   date: '2022'
+  links:
+  - url: 'http://theraptlab.org/assets/pdfs/Zhou_et_al._2022_Goal_AERA.pdf'
+    linklabel: 'paper'
 
 - citation: 'Steinberg, S., Hmelo-Silver, C., Zou, X., Danish, J., & Lester, J. (2023). Seeing student engagement in classroom video: Affordances of cognitive and sociocultural frameworks. In Proceedings of Computer Supported Collaborative Learning (CSCL) 2023.'
   project: 'STEP'
@@ -1647,4 +1650,13 @@
   date: '2024'
   links:
   - url: 'https://repository.isls.org/bitstream/1/10870/1/ICLS2024_2075-2076.pdf'
+    linklabel: 'paper'
+
+- citation: 'Zhou, M., Vickery, M., & Danish, J. A. (2025). Goals in Motion: How Emergent Embodied Goals Support Elementary Students’ Mechanistic Reasoning in Collaborative Modeling Activities. Cognition and Instruction, 1–52. https://doi.org/10.1080/07370008.2025.2503194'
+  project: 'SEEDS'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2025'
+  links:
+  - url: 'https://doi.org/10.1080/07370008.2025.2503194'
     linklabel: 'paper'
