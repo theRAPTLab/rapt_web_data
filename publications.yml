@@ -1669,3 +1669,13 @@
   links:
   - url: 'https://authors.elsevier.com/c/1lNDV7sfHz3Hh4'
     linklabel: 'paper'
+
+
+- citation: 'Craig, K. & Danish, J. (2025). Designing Our Digital Past: Anchoring Digital-History Tool Development in the Historical Method Through Design-Based History Research. Journal of Digital History.'
+  project: 'VFOI'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2025'
+  links:
+  - url: 'https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZCR1UzUER2OXA3cEMlMkZtYWluJTJGc2tpbS1hcnRpY2xlLmlweW5i?idx=5&layer=narrative&pidx=53&lh=877'
+    linklabel: 'paper'
