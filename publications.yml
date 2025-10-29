@@ -1679,3 +1679,12 @@
   links:
   - url: 'https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZCR1UzUER2OXA3cEMlMkZtYWluJTJGc2tpbS1hcnRpY2xlLmlweW5i?idx=5&layer=narrative&pidx=53&lh=877'
     linklabel: 'paper'
+
+- citation: 'Lee, S.J., Tu, X., Adebola, S. et al. How children blend feedback in a mixed-reality environment for collective embodied learning. Intern. J. Comput.-Support. Collab. Learn (2025). https://doi.org/10.1007/s11412-025-09453-8'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2025'
+  links:
+  - url: 'https://doi.org/10.1007/s11412-025-09453-8'
+    linklabel: 'paper'
