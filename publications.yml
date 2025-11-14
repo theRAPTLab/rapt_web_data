@@ -1688,3 +1688,12 @@
   links:
   - url: 'https://doi.org/10.1007/s11412-025-09453-8'
     linklabel: 'paper'
+
+- citation: 'Humburg, M., Danish, J.A., Tu, X. et al. Using Scientific Annotation Tools to Support Collaborative Embodied Learning in Elementary School Classrooms. J Sci Educ Technol (2025). https://doi.org/10.1007/s10956-025-10248-7'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2025'
+  links:
+  - url: 'https://doi.org/10.1007/s10956-025-10248-7'
+    linklabel: 'paper'
