@@ -1697,3 +1697,33 @@
   links:
   - url: 'https://doi.org/10.1007/s10956-025-10248-7'
     linklabel: 'paper'
+
+- citation: ' Zhou, M., Steinberg, S., Stiso, C., Danish, J., & Cruz-Gonzalez, C. (2024). Embodied and Digital Network Visualization of Data Design for Elementary Students. In Lindgren, R., Asino, T. I., Kyza, E. A., Looi, C. K., Keifert, D. T., & Suárez, E. (Eds.), Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024 (pp. 1107-1110). International Society of the Learning Sciences'
+  project: 'NetCreate'
+  visibility: 'All'
+  type: 'Conference Proceedings'
+  date: '2024'
+  links:
+  - url: 'https://repository.isls.org/handle/1/10632'
+    linklabel: 'paper'
+
+- citation: 'Zhou, M., Steinberg, S., Danish, J., Stiso, C., & Cruz-Gonzalez, C. (2024). Elementary students’ reflection on embodied and digital data literacy representation. Paper presented at the Annual Meeting of the American Educational Research Association (AERA), Philadelphia, PA. [Best Student Paper Nomination, AERA SIG Instructional Technology]. '
+  project: 'NetCreate'
+  visibility: 'All'
+  type: 'Conference Presentation'
+  date: '2024'
+
+- citation: 'Zhou, M., Steinberg, S., Craig, K., Danish, J. (2025). Students’ perceived affordances of three representations in Greek trade network activity. Paper presented at the Annual Meeting of the American Educational Research Association (AERA), Dever, Co. '
+  project: 'NetCreate'
+  visibility: 'All'
+  type: 'Conference Presentation'
+  date: '2025'
+
+- citation: ' Zhou, M., Steinberg, S., Craig, K., Danish, J., Wallace, C., Dunbar, K. M., Coenraad, M., & Hmelo-Silver, C. E. (2025). Exploring Students’ Perceived Affordances of Physical and Digital Visualizations of Data in Greek Trade Lessons. In Rajala, A., Cortez, A., Hofmann, H., Jornet, A., Lotz-Sisitka, H., & Markauskaite, L. (Eds.), Proceedings of the 19th International Conference of the Learning Sciences - ICLS 2025 (pp. 1439-1443). International Society of the Learning Sciences.'
+  project: 'NetCreate'
+  visibility: 'All'
+  type: 'Conference Proceedings'
+  date: '2025'
+  links:
+  - url: 'https://repository.isls.org/handle/1/11291'
+    linklabel: 'paper'
