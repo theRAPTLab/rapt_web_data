@@ -1727,3 +1727,12 @@
   links:
   - url: 'https://repository.isls.org/handle/1/11291'
     linklabel: 'paper'
+
+- citation: 'Humburg, M., Danish, J., Kim, Y., Hmelo-Silver, C., Dragnić-Cindrić, D., Ryan, Z., Glazewski, K., & Lester, J. (2025). SciStory: Designing AI-Supported Inquiry in Science Learning Games. International Journal of Designs for Learning, 16(2), 170–181. https://doi.org/10.14434/ijdl.v16i2.42049'
+  project: 'ENGAGE'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2025'
+  links:
+  - url: 'https://scholarworks.iu.edu/journals/index.php/ijdl/article/view/42049/44037'
+    linklabel: 'paper'
