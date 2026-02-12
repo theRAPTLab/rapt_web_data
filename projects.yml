@@ -133,7 +133,8 @@
 - name: Representations
   full_name: Exploring Representations
   blurb: 'A series of studies exploring how children create and learn about representations '
-
+  hide: true
+  
 - name: ENGAGE
   full_name: The ENGAGE AI Institute
   blurb: 'The EngageAI Institute conducts research on narrative-centered learning technologies, adaptive collaborative learning, and multimodal learning analytics to create deeply engaging collaborative story-based learning experiences.'
