@@ -126,12 +126,12 @@
 
 - name: HEOV
   full_name: Hearing Each Other's Voices
-  blurb: 'This is a placeholder for any work that was not part of a larger, core project'
+  blurb: 'The goal of this project is to support teachers, STEM coaches, and researchers in sharing that knowledge so that they can learn from one another.'
   url: https://heov.org/
 
 - name: Other
   full_name: Other Projects
-  blurb: 'This is a placeholder for any work that was not part of a larger, core project'
+  blurb: 'This is a placeholder for any work that was not part of a current overarching project'
   hide: true
 
 - name: Representations

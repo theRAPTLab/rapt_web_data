@@ -1675,9 +1675,9 @@
   project: 'Net.Create and VFOI'
   visibility: 'All'
   type: 'Journal Article'
-  date: '2025'
+  date: '2026'
   links:
-  - url: 'https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZCR1UzUER2OXA3cEMlMkZtYWluJTJGc2tpbS1hcnRpY2xlLmlweW5i?idx=5&layer=narrative&pidx=53&lh=877'
+  - url: 'https://journalofdigitalhistory.org/en/article/BGU3PDv9p7pC'
     linklabel: 'paper'
 
 - citation: 'Lee, S.J., Tu, X., Adebola, S. et al. How children blend feedback in a mixed-reality environment for collective embodied learning. Intern. J. Comput.-Support. Collab. Learn (2025). https://doi.org/10.1007/s11412-025-09453-8'
@@ -1736,3 +1736,25 @@
   links:
   - url: 'https://scholarworks.iu.edu/journals/index.php/ijdl/article/view/42049/44037'
     linklabel: 'paper'
+
+- citation: 'Fonteles, J. H., Cohn, C., Ayalon, E., Zhou, M., T.s., A., Davalos, E., Li, Z., Rayala, S., Mereddy, D., Coursey, A., Jain, S., Zhang, Y., Enyedy, N., Danish, J., & Biswas, G. (2026). Analyzing embodied learning in classroom settings: A human-in-the-loop AI approach for multimodal learning analytics. Learning and Instruction, 103, 102274. https://doi.org/10.1016/j.learninstruc.2025.102274'
+  project: 'ENGAGE'
+  secondaryProject: 'STEP'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2026'
+  links:
+  - url: 'https://doi.org/10.1016/j.learninstruc.2025.102274'
+    linklabel: 'paper'
+
+- citation: 'Zhou, M., Danish, J., Fonteles, J., Davalos, E., Dim, E., Lane, A., TS, A., Srivastava, N., Steinberg, S., Anton, G., & others. (2025). Interaction analysis practice within computational trends: Promises and challenges.'
+  project: 'ENGAGE'
+  secondaryProject: 'STEP'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2025'
+  links:
+  - url: 'https://par.nsf.gov/servlets/purl/10612372'
+    linklabel: 'paper'
+
+
