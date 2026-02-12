@@ -129,12 +129,15 @@
   blurb: 'The goal of this project is to support teachers, STEM coaches, and researchers in sharing that knowledge so that they can learn from one another.'
   url: https://heov.org/
 
-- name: Other
-  full_name: Other Projects
-  blurb: 'This is a placeholder for any work that was not part of a current overarching project'
-  hide: true
-
 - name: Representations
   full_name: Exploring Representations
   blurb: 'A series of studies exploring how children create and learn about representations '
-  hide: true
+
+- name: ENGAGE
+  full_name: The ENGAGE AI Institute
+  blurb: 'The EngageAI Institute conducts research on narrative-centered learning technologies, adaptive collaborative learning, and multimodal learning analytics to create deeply engaging collaborative story-based learning experiences.'
+  url: https://engageai.org/
+
+- name: Other
+  full_name: Other Projects
+  blurb: 'This is a placeholder for any work that was not part of a current overarching project'
