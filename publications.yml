@@ -1757,4 +1757,12 @@
   - url: 'https://par.nsf.gov/servlets/purl/10612372'
     linklabel: 'paper'
 
+- citation: 'Steinberg, S., Lau, N. G., Cruz-Gonzalez, C., Coenraad, M., & Danish, J. (2026). Sharing and Connecting via Network Visualizations: An Asset-Based Approach to History Learning. International Journal of Child-Computer Interaction, 100839. https://doi.org/10.1016/j.ijcci.2026.100839'
+  project: 'Net.Create and VFOI'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2026'
+  links:
+  - url: 'https://doi.org/10.1016/j.ijcci.2026.100839'
+    linklabel: 'paper'
 
